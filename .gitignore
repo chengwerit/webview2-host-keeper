@@ -1,0 +1,14 @@
+# 触发条件
+*.log
+keeper.log
+*.bak
+
+# 编辑器
+.vs/
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
